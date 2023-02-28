@@ -24,8 +24,8 @@ Or simply copy `bootstrap-duration-picker.css` and `bootstrap-duration-picker.js
 
 ## Dependencies
 
-- jQuery 1.*
-- Bootstrap 3.* (for styling only)
+- jQuery
+- Bootstrap 5 & 4 (for styling only)
 
 ## Usage
 
