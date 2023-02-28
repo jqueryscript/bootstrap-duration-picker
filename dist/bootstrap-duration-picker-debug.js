@@ -111,7 +111,7 @@
       labels[id] = label;
 
       return $('<div>', {
-        class: 'bdp-block ' + (hidden ? 'hidden' : ''),
+        class: 'bdp-block ' + (hidden ? 'd-none' : ''),
         html: [input, label]
       });
     }
